@@ -4,7 +4,7 @@ This project aims to build a high-performance prediction model in the field of e
 
 ## 1. About App
 
-![IMG](https://user-images.githubusercontent.com/105137667/184306908-7a3adea7-cb57-4ddb-a8a8-f64a8ab77acc.jpg)
+![IMG](https://user-images.githubusercontent.com/105137667/184310383-e7737a46-dd60-417f-bedf-32010f322e77.jpg)
 
  
 
