@@ -1,0 +1,33 @@
+MDScreen:
+    name: "start"
+    MDFloatLayout:
+        md_bg_color: rgba(50, 100, 160, 255)
+
+        MDLabel:
+            text: "Korea Export \n AI Forcast"
+            font_name: "Anton"
+            font_size: "70sp"
+            halign: "center"
+            pos_hint: {"center_x": .5, "center_y": .65}
+            color: 1, 1, 1, 1
+            line_height: 1.1
+
+        Button:
+            text: "Start"
+            font_name: "Anton"
+            font_size: "55sp"
+            size_hint:  .4, .12
+            pos_hint: {"center_x": .5, "center_y": .25}
+            background_color: 1, 1, 1, 0
+            on_release:
+                app.search_result()
+                root.manager.current = "loading"
+
+            canvas.before:
+                Color:
+                    rgba: 30/255, 60/255, 90/255, 0.4
+                
+                RoundedRectangle:
+                    size: self.size
+                    pos: self.pos     
+                    radius: [10]
