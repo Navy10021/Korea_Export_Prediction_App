@@ -18,7 +18,7 @@ Ensemble : Random Forest, ExtraTrees, AdaBoost, XGBoost, Light GMB
 Deep Learning : Multi-Layer Perceptron(MLP), Vanila RNN, LSTM, GRU
 Transformer-based model(Doesn't apply to App) : Transformer
 
-See "train_and_eval/Korea Export Prediction Result.ipnb" for performance evaluation of models.
+See "train_and_eval/Korea Export Prediction Results.ipnb" for performance evaluation of models.
 
 ## 4. About prediction
 
