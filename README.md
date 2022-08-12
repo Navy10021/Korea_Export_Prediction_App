@@ -9,6 +9,7 @@ This project aims to build a high-performance prediction model in the field of e
 
 ## 2. About Data
 
+We used Korea export volum data from Ministry of Trade, Industry and Energy. Also, data highly correlated with Korea export volume were additionally collected from Korean Statistical Information Service
 
 ## 3. About models
 We applied various 'Machine Learning', 'Ensemble' and 'Deep Learning' models to predict Korea export volume.
