@@ -22,6 +22,7 @@ We applied various 'Machine Learning', 'Ensemble' and 'Deep Learning' models to 
 See "train_and_eval/Korea Export Prediction Results.ipnb" for performance evaluation of models.
 
 ## 4. About prediction
+Our models predict two types of outcomes.
 
   - Short-term prediction : We use the AI models introduced above to predict the direction(up or down) of next month's stock price.
   - Long-term prediction : After automatically finding the optimal moving average(MA) with our model, measures trend by the "Method of Moving Average technique". Then, predicts long-term export signal(Boom or Slump).
