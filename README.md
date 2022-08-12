@@ -1,6 +1,6 @@
 # Korea Export Volume Prediction Using Artificial Intelligence models
 
-This project aims to build a high-performance prediction model in the field of export by applying ML/DL models. We propose "AI-Korea export prediction", a light and fast export volume forecaster which is useful in real-life applications. This model predicts the direction of 'long-term' and 'short-term(Next month)' Korea export volume and can be used to determine the user decision making.
+This project aims to build a high-performance prediction model in the field of export by applying ML/DL models. We propose "AI-Korea Export Prediction", a light and fast export volume forecaster which is useful in real-life applications. This model predicts the direction of 'long-term(Signal)' and 'short-term(Next month)' Korea export volume and can be used to determine the user decision making.
 
 ## 1. About App
 
