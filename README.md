@@ -1,5 +1,5 @@
 # Korea Export Volume Prediction Using ML/DL models
-#### 산업통상원부 "제10회 공공데이터 활용 BI 공모전" 빅데이터 분석 부문 최우수상 수상작
+#### 산업통상원부 "2022 제10회 공공데이터 활용 BI 공모전" 빅데이터 분석 부문 최우수상 수상작
 
 This project aims to build a high-performance prediction model in the field of export by applying ML/DL models. We propose "AI-Korea Export Prediction", a light and fast export volume forecaster which is useful in real-life applications. This model predicts the direction of 'long-term(Signal)' and 'short-term(Next month)' Korea export volume and can be used to determine the user decision making.
 
